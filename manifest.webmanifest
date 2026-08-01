@@ -1,0 +1,44 @@
+{
+  "name": "English Integrated Language Platform Studio",
+  "short_name": "EILPS",
+  "description": "Adaptive ESL learning, classroom, review, and school administration.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBF5EC",
+  "theme_color": "#FF7A4D",
+  "categories": [
+    "education",
+    "kids",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Learn",
+      "url": "/learn"
+    },
+    {
+      "name": "Memory Review",
+      "url": "/memory"
+    },
+    {
+      "name": "School Console",
+      "url": "/school"
+    }
+  ]
+}

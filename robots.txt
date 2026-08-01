@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /account
+Disallow: /dashboard
+Disallow: /school
+Disallow: /authoring
+Disallow: /classroom
+
+Sitemap: https://eilps.com/sitemap.xml
